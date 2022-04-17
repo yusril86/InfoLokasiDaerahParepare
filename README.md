@@ -1,0 +1,2 @@
+# InfoLokasiDaerahParepare
+Event #JuaranAndroid
